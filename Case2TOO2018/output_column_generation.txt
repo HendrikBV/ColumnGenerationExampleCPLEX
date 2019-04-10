@@ -1,0 +1,3 @@
+Computation time	0.607809
+Number of columns added	15
+Objective value optimal solution	0
